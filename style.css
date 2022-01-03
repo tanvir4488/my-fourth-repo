@@ -1,6 +1,12 @@
 h1{
-    color: brown;
+    color: #16108a;
 }
 p{
     color: rgb(182, 32, 62);
+}
+h2{
+    color: rgba(15, 41, 128, 0.726);
+}
+.blog{
+    color: darkblue;
 }
